@@ -1,0 +1,10 @@
+h1 {
+  background-image: linear-gradient(to right, #ff9966, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    align-items: center;
+    text-align: center;
+}
+
